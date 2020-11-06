@@ -1,0 +1,2 @@
+# python_multiprocessing
+python用多进程写文件的时候的一些坑，使用多进程完成加速，使用callback可以避免数据丢失
